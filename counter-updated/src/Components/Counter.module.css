@@ -1,0 +1,46 @@
+.value {
+    color: black;
+    text-align: center;
+    font-size:xx-large;    
+}
+
+.val {
+    font-size: 200px;
+}
+
+#buttons{
+    width: 80vw;
+    margin: auto;
+    text-align: center;
+  }
+  
+.button {
+    border: none;
+    color: white;
+    padding: 13px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 50px 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 5%;
+  }
+  
+.button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #960303;
+  }
+  
+.button1:hover {
+    background-color: #960303;
+    color: white;
+  }
+
+.control
+{
+  border-radius: 0px;
+  height: 40px;
+}
